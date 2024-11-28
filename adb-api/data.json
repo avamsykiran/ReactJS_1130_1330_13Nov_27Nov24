@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Vamsy Kiran Aripaka",
+      "mailId": "vamsy@gmail.com",
+      "mobile": "9052224753"
+    },
+    {
+      "id": 2,
+      "name": "KGN Murthy",
+      "mobile": "90522247534",
+      "mailId": "murthy@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Suresh P",
+      "mailId": "suresh@gmail.com",
+      "mobile": "9948016003"
+    }
+  ]
+}
